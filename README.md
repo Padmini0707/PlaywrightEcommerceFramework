@@ -1,7 +1,7 @@
 # 🛒 PlaywrightEcommerceFramework
 PlaywrightEcommerceProject is a scalable, automation‑focused test framework built using Playwright for end‑to‑end testing of e‑commerce applications. The project demonstrates how to design a robust, reusable, and CI/CD‑ready test suite that validates critical user journeys such as product search, cart management and checkout flows.
 
-#✨ Why this framework stands out
+✨ Why this framework stands out
   🌐 Cross-browser ready
       Runs on Chromium, Firefox & WebKit — write once, test everywhere
   ⚡ Auto-waiting built in
@@ -15,7 +15,7 @@ PlaywrightEcommerceProject is a scalable, automation‑focused test framework bu
   📊 HTML test report
       Auto-generated Playwright reports with pass/fail details after every run
       
-#🧪 Test coverage — critical user journeys
+🧪 Test coverage — critical user journeys
   ✅  Product search validation
   ✅  Add to cart & quantity management
   ✅  Checkout flow — end to end
@@ -23,7 +23,7 @@ PlaywrightEcommerceProject is a scalable, automation‑focused test framework bu
   ✅  Negative test cases — invalid inputs, boundary conditions, expected failures
   ✅  UI assertion checks on critical ecommerce elements
 
-#🛠️ Tech stack
+🛠️ Tech stack
   Language:JavaScript
   Test framework:Playwright
   Source control:GitHub
