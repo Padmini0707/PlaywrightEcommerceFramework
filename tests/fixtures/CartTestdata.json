@@ -1,0 +1,10 @@
+{ 
+  "Username": "standard_user", 
+  "Password": "secret_sauce", 
+  "ExpectedPageTitle":"Swag Labs",
+  "ProductName": "Sauce Labs Backpack", 
+  "ArrangeProduct":"Price (low to high)",
+  "FirstName": "Naveen", 
+  "LastName": "M", 
+  "PostalCode": 45673 
+}

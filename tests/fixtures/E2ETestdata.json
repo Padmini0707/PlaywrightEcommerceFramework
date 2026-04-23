@@ -1,0 +1,23 @@
+[
+{ 
+  "Username": "standard_user", 
+  "Password": "secret_sauce", 
+  "ExpectedPageTitle":"Swag Labs",
+  "ProductName": "Sauce Labs Backpack", 
+  "FirstName": "Naveen", 
+  "LastName": "M", 
+  "PostalCode": "45673" ,
+  "orderConfirmationmsg":"Thank you for your order!"
+},
+{ 
+  "Username": "error_user", 
+  "Password": "secret_sauce", 
+  "ExpectedPageTitle":"Swag Labs",
+  "ProductName": "Sauce Labs Onesie", 
+  "FirstName": "Ashok", 
+  "LastName": "", 
+  "PostalCode": "45673" ,
+  "orderConfirmationmsg":"Thank you for your order!"
+}
+
+]

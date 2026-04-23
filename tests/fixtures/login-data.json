@@ -1,0 +1,19 @@
+[
+ {
+  "Username": "standard_user",
+  "Password": "secret_sauce"
+ },
+ {
+  "Username": "performance_glitch_user",
+  "Password": "secret_sauce"
+ },
+ {
+  "Username":"",
+  "Password": "secret_sauce"
+ },
+ {
+  "Username": "visual_user",
+  "Password": ""
+ }
+
+]
